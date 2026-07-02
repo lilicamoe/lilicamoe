@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Lilica! 👋</h1>
 
-<h3 align="center">💻 Estudante de Python | 🇧🇷 Brasil</h3>
+<h3 align="center">💻 Estudante de Python | 🇧🇷  Brasil</h3>
 
 ---
 
