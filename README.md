@@ -2,16 +2,14 @@
 
 ###
 
-<div>
-    <a href="https://beacons.ai/lilicamoe"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?usernam=lilicamoe&show_icons=true&theme=dracula&include_all_commits=true_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilicamoe&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+###
+
 
 ###
 
 
 ###
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/lilicamoe/lilicamoe/snake-output/snake.svg" alt="Snake animation" />
 
 ###
