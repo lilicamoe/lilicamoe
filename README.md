@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://imgur.com/a/lAsu9Gn">
-    <img src="https://imgur.com/a/lAsu9Gn" width="100%" alt="Banner"/>
+  <a href="https://imgur.com/gallery/miku-lAsu9Gn">
+    <img src="https://imgur.com/gallery/miku-lAsu9Gn" width="100%" alt="Banner"/>
   </a>
 </div>
 
