@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://postimg.cc/pytCmbKy">
+  <a href="https://imgur.com/a/lAsu9Gn">
     <img src="https://imgur.com/a/lAsu9Gn" width="100%" alt="Banner"/>
   </a>
 </div>
